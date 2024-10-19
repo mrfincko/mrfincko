@@ -6,6 +6,3 @@ I like programming, espacially in System Languages. I don't do coding as a job. 
 
 ## My dev skills 💪
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,php,mysql,angular,react,nextjs)](https://skillicons.dev)
-
-## Other skills
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ae,pr,blender)](https://skillicons.dev)
